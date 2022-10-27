@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="startButton" type="id" />
+    <item name="textView2" type="id" />
+    <item name="second" type="id" />
+    <item name="minute" type="id" />
+    <item name="hour" type="id" />
+    <item name="textView" type="id" />
+    <item name="pauseButton" type="id" />
+    <item name="playButton" type="id" />
+    <item name="showTextView" type="id" />
+    <item name="stopImageButton" type="id" />
+    <item name="textViewHour" type="id" />
+    <item name="textView7" type="id" />
+    <item name="textViewMinute" type="id" />
+    <item name="textView6" type="id" />
+    <item name="textViewSecond" type="id" />
+    <item name="flow2" type="id" />
+    <item name="flow" type="id" />
+</resources>
